@@ -22,8 +22,9 @@ Website ini dibuat untuk:
 ├── style.css          # File styling CSS
 ```
 
+---
 
-##🧩 Fitur Website
+## 🧩 Fitur Website
 Navigasi internal antar bagian (Artikel & Biodata)
 
 Artikel informatif: pengantar & tentang saya
@@ -34,20 +35,28 @@ Layout dua kolom yang menjadi satu kolom di layar kecil
 
 Animasi hover dan efek bayangan untuk estetika tambahan
 
-##🎨 Desain
+---
+
+## 🎨 Desain
 Warna utama: gradasi ungu ke biru (#6312c0 → #2575fc)
 
 Tipografi: Segoe UI, Tahoma, Verdana, sans-serif
 
 Layout: Flexbox dengan media query responsif (max-width: 900px)
 
-##👤 Biodata
+---
+
+## 👤 Biodata
 Nama: Hefri Juanto
 Umur: 22 Tahun
 Hobi: Ngopi Americano
 Email: hefri.juanto@gmail.com
 
-##📝 Lisensi
+---
+
+## 📝 Lisensi
 Repositori ini bersifat open-source dan dapat digunakan untuk keperluan pembelajaran, tugas akhir, dan pengembangan diri.
 
-##© 2025 Hefri Juanto — All rights reserved.
+---
+
+## © 2025 Hefri Juanto — All rights reserved.
