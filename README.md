@@ -1,4 +1,4 @@
-# 🌐 Website Tugas Akhir — HTML & CSS
+# 🌐 Website Tugas Akhir Dicoding — HTML & CSS
 
 Website ini merupakan tugas akhir yang dibuat menggunakan **HTML5 semantic** dan **CSS modern**. Fokus dari proyek ini adalah pada struktur HTML yang baik, desain yang responsif, dan tampilan yang estetis dengan kombinasi warna biru dan ungu.
 
