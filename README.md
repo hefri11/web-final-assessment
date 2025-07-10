@@ -16,12 +16,12 @@ Website ini dibuat untuk:
 
 ## 📁 Struktur Folder
 
-```bash
-.
+
 ├── index.html         # Halaman utama website
 ├── style.css          # File styling CSS
-└── images/
-    └── profile.jpg    # Foto profil pengguna (perlu ditambahkan)
+
+---
+
 🧩 Fitur Website
 Navigasi internal antar bagian (Artikel & Biodata)
 
@@ -45,3 +45,6 @@ Nama: Hefri Juanto
 Umur: 22 Tahun
 Hobi: Ngopi Americano
 Email: hefri.juanto@gmail.com
+
+
+
